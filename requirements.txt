@@ -5,4 +5,6 @@ tqdm
 pyyaml
 matplotlib
 scikit-learn
+seaborn
+
 -e .
