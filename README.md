@@ -210,19 +210,4 @@ python infer.py --weights checkpoints/best_model.pth
 
 ---
 
-# 📬 Contact & Support
 
-If you have questions, feel free to reach out via
-**[hello@aftershoot.com](mailto:hello@aftershoot.com)** or open a GitHub issue.
-
----
-
-If you'd like, I can also generate:
-
-✅ A fully polished GitHub repository structure
-✅ Model training script template
-✅ A lightweight baseline model (CNN + metadata)
-✅ Starter notebook
-✅ A project logo for the README
-
-Just tell me!
